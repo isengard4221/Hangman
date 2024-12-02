@@ -33,4 +33,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        ./test_hangman.exe
+        make test
